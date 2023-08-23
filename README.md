@@ -37,7 +37,7 @@
   </div>
   
   <div id="views" align="center">
-      <img src="https://komarev.com/ghpvc/?username=your-github-username" alt="rohil-bansal" />
+      <img src="https://komarev.com/ghpvc/?username=realrohilbansal" alt="rohil-bansal" />
   </div>
 </div>
 
@@ -51,7 +51,12 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,git,github,mysql,bash,linux,md" />
+    <img src="https://skillicons.dev/icons?i=django,git,github,stackoverflow,mysql" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,bash,vscode,linux,md" />
   </a>
 </p>
 
@@ -62,9 +67,9 @@
 ### Profile Stats
 <div id="stats" style="display: flex; flex-wrap: wrap; justify-content: space-evenly;" align="center">
   <div>
-<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=realrohilbansal&show_icons=true&theme=radical" alt="rohil-bansal" />
+<img height="150px" align="center" style="margin;10%;" src="https://github-readme-stats.vercel.app/api?username=realrohilbansal&show_icons=true&theme=radical" alt="rohil-bansal" />
   </div>
   <div>
-<img height= "150px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realrohilbansal&theme=radical" alt="rohil-bansal" />
+<img height= "150px" align="center" style="margin;10%;" src="https://github-readme-streak-stats.herokuapp.com/?user=realrohilbansal&theme=radical" alt="rohil-bansal" />
   </div>
 </div>
