@@ -57,10 +57,14 @@
 
 
 
-
 ---
 
 ### Profile Stats
-
+<div id="stats" style="display: flex; flex-wrap: wrap; justify-content: space-evenly;" align="center">
+  <div>
 <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=realrohilbansal&show_icons=true&theme=radical" alt="rohil-bansal" />
+  </div>
+  <div>
 <img height= "150px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realrohilbansal&theme=radical" alt="rohil-bansal" />
+  </div>
+</div>
