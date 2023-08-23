@@ -46,17 +46,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,js,pytorch" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,pytorch,django" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,git,github,stackoverflow,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,rust,vim,bash,vscode" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,bash,vscode,linux,md" />
+    <img src="https://skillicons.dev/icons?i=linux,md,stackoverflow,mysql" />
   </a>
 </p>
 
