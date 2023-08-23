@@ -1,8 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Rohil  
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Rohil  
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-#### I'm an ML and AI developer fueled by a blockchain passion. A learner at heart, I adore open source, indulging in history, philosophy, and literature for intellectual inspiration.
+
+### I'm an ML and AI developer fueled by a blockchain passion. A learner at heart, I adore open source, indulging in history, philosophy, and literature for intellectual inspiration.
 
 ---
 
@@ -18,26 +19,28 @@
 
 ## Connect with me
 
-```html
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/realrohilbansal">
-    	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+<div>
+  <div id="badges" align="center">
+      <a href="https://www.linkedin.com/in/realrohilbansal">
+      	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://www.kaggle.com/realrohilbansal">
+      	<img src="https://img.shields.io/badge/Kaggle-gray?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+      </a>
+    <a href="https://www.twitter.com/realrohilbansal">
+    	<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>  
     </a>
-    <a href="https://www.kaggle.com/realrohilbansal">
-    	<img src="https://img.shields.io/badge/Kaggle-gray?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+    <a href="mailto:rohilb.cs.21@nitj.ac.in">
+    	<img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>  
     </a>
-  <a href="https://www.twitter.com/realrohilbansal">
-  	<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>  
-  </a>
-  <a href="mailto:rohilb.cs.21@nitj.ac.in">
-  	<img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>  
-  </a>
+  </div>
+  
+  <div id="views" align="center">
+      <img src="https://komarev.com/ghpvc/?username=your-github-username" alt="rohil-bansal" />
+  </div>
 </div>
 
-<div id="views" align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username" alt="rohil-bansal" />
-</div>
-```
 
 ## Languages and tools that I use
 
@@ -59,5 +62,5 @@
 
 ### Profile Stats
 
-<img height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=realrohilbansal&show_icons=true&theme=radical" alt="rohil-bansal" />
-<img height= "150px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=realrohilbansal&theme=radical" alt="rohil-bansal" />
+<img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=realrohilbansal&show_icons=true&theme=radical" alt="rohil-bansal" />
+<img height= "150px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realrohilbansal&theme=radical" alt="rohil-bansal" />
