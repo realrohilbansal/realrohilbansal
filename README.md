@@ -10,9 +10,10 @@
 - 👨🏻‍💻 Pronouns: He/Him/They/Them
 - 🔭 I am currently exploring different paths for machine learning, and the artificial intelligence space.
 - 📽️ Some of my projects are
-  -
-  -
-  -
+  - Chess game and bot from scratch (Applying AlphaMCTS) <a href="https://github.com/realrohilbansal/chessdotai">Link</a>
+  - Visual Slam in python (ongoing) <a href="https://github.com/realrohilbansal/visual-slam-py">Link</a>
+  - Twiiter RAG bot <a href="https://github.com/realrohilbansal/twitter-rag-bot">Link</a>
+  - Study Chat (Not deployed) <a href="https://github.com/realrohilbansal/studychat">Link</a>
 - ☕ Hobbies: Like to read books, code and leisure.
 
 ---
