@@ -8,13 +8,15 @@
 ---
 
 - 👨🏻‍💻 Pronouns: He/Him/They/Them
-- 🔭 I am currently exploring different paths for machine learning, and the artificial intelligence space.
+- 🔭 I am exploring different paths for machine learning, and the artificial intelligence space, continuously trying to build new stuff.
+- Currently I am working on **Chatlingo**, an ai powered conversational language teaching tutor.
 - 📽️ Some of my projects are
   - Chess game and bot from scratch <a href="https://github.com/realrohilbansal/chessdotai">Link</a>
-  - Legal AI RAG bot <a href="https://github.com/realrohilbansal/legalaibot">Link</a>
+  - LegalAlly <a href="https://github.com/realrohilbansal/legalaibot">Link</a>
   - Visual Slam in python (ongoing) <a href="https://github.com/realrohilbansal/visual-slam-py">Link</a>
   - Twiiter RAG bot <a href="https://github.com/realrohilbansal/twitter-rag-bot">Link</a>
-  - Study Chat (Not deployed) <a href="https://github.com/realrohilbansal/studychat">Link</a>
+  - PyColorizer <a href="https://github.com/realrohilbansal/pycolorizer">Link<a>
+  
 - ☕ Hobbies: Like to read books, code and leisure.
 
 ---
@@ -30,10 +32,10 @@
       <a href="https://www.kaggle.com/realrohilbansal">
       	<img src="https://img.shields.io/badge/Kaggle-gray?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
       </a>
-    <a href="https://www.twitter.com/realrohilbansal">
+    <a href="https://www.twitter.com/hellorohil">
     	<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>  
     </a>
-    <a href="mailto:rohilb.cs.21@nitj.ac.in">
+    <a href="mailto:rohilbansaltech@gmail.com">
     	<img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>  
     </a>
   </div>
@@ -48,30 +50,29 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,pytorch,django" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,django,aws,tensorflow,mysql,docker" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,rust,vim,bash,vscode" />
+    <img src="https://skillicons.dev/icons?i=rust,bash,vscode,fastapi,ubuntu,obsidian,md,git" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,md,stackoverflow,mysql" />
+    <img src="https://skillicons.dev/icons?i=" />
   </a>
-</p>
-
+</p> -->
 
 
 ---
 
 ### Profile Stats
-<div id="stats" style="display: flex; flex-wrap: wrap; justify-content: space-evenly;" align="center">
+<div id="stats" align="center">
   <div>
-<img height="150px" align="center" style="margin:10%;" src="https://github-readme-stats.vercel.app/api?username=realrohilbansal&show_icons=true&theme=radical" alt="rohil-bansal" />
+    <img height="150px" align="center" style="margin:2%;" src="https://github-readme-stats.vercel.app/api?username=realrohilbansal&hide_rank=true&show_icons=true&theme=dark" alt="rohil-bansal" />
   </div>
   <div>
-<img height= "150px" align="center" style="margin:10%;" src="https://github-readme-streak-stats.herokuapp.com/?user=realrohilbansal&theme=radical" alt="rohil-bansal" />
+    <img height="150px" align="center" style="margin:2%;" src="https://github-readme-streak-stats.herokuapp.com?user=realrohilbansal&theme=dark" alt="GitHub Streak" />
   </div>
 </div>
